@@ -1,0 +1,1485 @@
+{
+  "source": "2601.04239v1.pdf; Tables 5, 6, 7, B3-B7; HB dimensions from A2",
+  "instances": [
+    {
+      "table": "5",
+      "paper_instance": "A-pores 1",
+      "seconds": 150,
+      "n": 30,
+      "m": 103,
+      "instance": "hb/pores_1.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "B-ibm32",
+      "seconds": 150,
+      "n": 32,
+      "m": 90,
+      "instance": "hb/ibm32.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "C-bcspwr01",
+      "seconds": 150,
+      "n": 39,
+      "m": 46,
+      "instance": "hb/bcspwr01.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "D-bcsstk01",
+      "seconds": 150,
+      "n": 48,
+      "m": 176,
+      "instance": "hb/bcsstk01.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "E-bcspwr02",
+      "seconds": 150,
+      "n": 49,
+      "m": 59,
+      "instance": "hb/bcspwr02.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "F-curtis54",
+      "seconds": 150,
+      "n": 54,
+      "m": 124,
+      "instance": "hb/curtis54.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "G-will57",
+      "seconds": 150,
+      "n": 57,
+      "m": 127,
+      "instance": "hb/will57.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "H-impcol b",
+      "seconds": 150,
+      "n": 59,
+      "m": 281,
+      "instance": "hb/impcol_b.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "I-ash85",
+      "seconds": 150,
+      "n": 85,
+      "m": 219,
+      "instance": "hb/ash85.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "J-nos4",
+      "seconds": 150,
+      "n": 100,
+      "m": 247,
+      "instance": "hb/nos4.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "K-dwt 234",
+      "seconds": 150,
+      "n": 117,
+      "m": 162,
+      "instance": "hb/dwt__234.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "L-bcspwr03",
+      "seconds": 150,
+      "n": 118,
+      "m": 179,
+      "instance": "hb/bcspwr03.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "M-bcsstk07",
+      "seconds": 150,
+      "n": 420,
+      "m": 3720,
+      "instance": "hb/bcsstk07.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "N-bcsstk06",
+      "seconds": 150,
+      "n": 420,
+      "m": 3720,
+      "instance": "hb/bcsstk06.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "O-impcol d",
+      "seconds": 150,
+      "n": 425,
+      "m": 1267,
+      "instance": "hb/impcol_d.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "P-can 445",
+      "seconds": 150,
+      "n": 445,
+      "m": 1682,
+      "instance": "hb/can__445.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "Q-494 bus",
+      "seconds": 150,
+      "n": 494,
+      "m": 586,
+      "instance": "hb/494_bus.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "R-dwt 503",
+      "seconds": 150,
+      "n": 503,
+      "m": 2762,
+      "instance": "hb/dwt__503.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "S-sherman4",
+      "seconds": 150,
+      "n": 546,
+      "m": 1341,
+      "instance": "hb/sherman4.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "T-dwt 592",
+      "seconds": 150,
+      "n": 592,
+      "m": 2256,
+      "instance": "hb/dwt__592.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "U-662 bus",
+      "seconds": 150,
+      "n": 662,
+      "m": 906,
+      "instance": "hb/662_bus.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "V-nos6",
+      "seconds": 150,
+      "n": 675,
+      "m": 1290,
+      "instance": "hb/nos6.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "W-685 bus",
+      "seconds": 150,
+      "n": 685,
+      "m": 1282,
+      "instance": "hb/685_bus.mtx.rnd"
+    },
+    {
+      "table": "5",
+      "paper_instance": "X-can 715",
+      "seconds": 150,
+      "n": 715,
+      "m": 2975,
+      "instance": "hb/can__715.mtx.rnd"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p1",
+      "seconds": 1800,
+      "n": 100,
+      "m": 200,
+      "instance": "random/p1_100_200"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p2",
+      "seconds": 1800,
+      "n": 100,
+      "m": 200,
+      "instance": "random/p2_100_200"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p3",
+      "seconds": 1800,
+      "n": 100,
+      "m": 200,
+      "instance": "random/p3_100_200"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p4",
+      "seconds": 1800,
+      "n": 100,
+      "m": 200,
+      "instance": "random/p4_100_200"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p5",
+      "seconds": 1800,
+      "n": 100,
+      "m": 200,
+      "instance": "random/p5_100_200"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p6",
+      "seconds": 1800,
+      "n": 100,
+      "m": 200,
+      "instance": "random/p6_100_200"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p7",
+      "seconds": 1800,
+      "n": 100,
+      "m": 200,
+      "instance": "random/p7_100_200"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p8",
+      "seconds": 1800,
+      "n": 100,
+      "m": 200,
+      "instance": "random/p8_100_200"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p9",
+      "seconds": 1800,
+      "n": 100,
+      "m": 200,
+      "instance": "random/p9_100_200"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p10",
+      "seconds": 1800,
+      "n": 100,
+      "m": 200,
+      "instance": "random/p10_100_200"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p11",
+      "seconds": 1800,
+      "n": 100,
+      "m": 600,
+      "instance": "random/p11_100_600"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p12",
+      "seconds": 1800,
+      "n": 100,
+      "m": 600,
+      "instance": "random/p12_100_600"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p13",
+      "seconds": 1800,
+      "n": 100,
+      "m": 600,
+      "instance": "random/p13_100_600"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p14",
+      "seconds": 1800,
+      "n": 100,
+      "m": 600,
+      "instance": "random/p14_100_600"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p15",
+      "seconds": 1800,
+      "n": 100,
+      "m": 600,
+      "instance": "random/p15_100_600"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p16",
+      "seconds": 1800,
+      "n": 100,
+      "m": 600,
+      "instance": "random/p16_100_600"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p17",
+      "seconds": 1800,
+      "n": 100,
+      "m": 600,
+      "instance": "random/p17_100_600"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p18",
+      "seconds": 1800,
+      "n": 100,
+      "m": 600,
+      "instance": "random/p18_100_600"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p19",
+      "seconds": 1800,
+      "n": 100,
+      "m": 600,
+      "instance": "random/p19_100_600"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p20",
+      "seconds": 1800,
+      "n": 100,
+      "m": 600,
+      "instance": "random/p20_100_600"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p21",
+      "seconds": 1800,
+      "n": 200,
+      "m": 400,
+      "instance": "random/p21_200_400"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p22",
+      "seconds": 1800,
+      "n": 200,
+      "m": 400,
+      "instance": "random/p22_200_400"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p23",
+      "seconds": 1800,
+      "n": 200,
+      "m": 400,
+      "instance": "random/p23_200_400"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p24",
+      "seconds": 1800,
+      "n": 200,
+      "m": 400,
+      "instance": "random/p24_200_400"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p25",
+      "seconds": 1800,
+      "n": 200,
+      "m": 400,
+      "instance": "random/p25_200_400"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p26",
+      "seconds": 1800,
+      "n": 200,
+      "m": 400,
+      "instance": "random/p26_200_400"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p27",
+      "seconds": 1800,
+      "n": 200,
+      "m": 400,
+      "instance": "random/p27_200_400"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p28",
+      "seconds": 1800,
+      "n": 200,
+      "m": 400,
+      "instance": "random/p28_200_400"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p29",
+      "seconds": 1800,
+      "n": 200,
+      "m": 400,
+      "instance": "random/p29_200_400"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p30",
+      "seconds": 1800,
+      "n": 200,
+      "m": 400,
+      "instance": "random/p30_200_400"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p31",
+      "seconds": 1800,
+      "n": 200,
+      "m": 2000,
+      "instance": "random/p31_200_2000"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p32",
+      "seconds": 1800,
+      "n": 200,
+      "m": 2000,
+      "instance": "random/p32_200_2000"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p33",
+      "seconds": 1800,
+      "n": 200,
+      "m": 2000,
+      "instance": "random/p33_200_2000"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p34",
+      "seconds": 1800,
+      "n": 200,
+      "m": 2000,
+      "instance": "random/p34_200_2000"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p35",
+      "seconds": 1800,
+      "n": 200,
+      "m": 2000,
+      "instance": "random/p35_200_2000"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p36",
+      "seconds": 1800,
+      "n": 200,
+      "m": 2000,
+      "instance": "random/p36_200_2000"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p37",
+      "seconds": 1800,
+      "n": 200,
+      "m": 2000,
+      "instance": "random/p37_200_2000"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p38",
+      "seconds": 1800,
+      "n": 200,
+      "m": 2000,
+      "instance": "random/p38_200_2000"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p39",
+      "seconds": 1800,
+      "n": 200,
+      "m": 2000,
+      "instance": "random/p39_200_2000"
+    },
+    {
+      "table": "7",
+      "paper_instance": "p40",
+      "seconds": 1800,
+      "n": 200,
+      "m": 2000,
+      "instance": "random/p40_200_2000"
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P2×2×3",
+      "seconds": 150,
+      "n": 12,
+      "m": 20,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P2×2×168",
+      "seconds": 150,
+      "n": 672,
+      "m": 1340,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P2×2×335",
+      "seconds": 150,
+      "n": 1340,
+      "m": 2676,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P2×2×500",
+      "seconds": 150,
+      "n": 2000,
+      "m": 3996,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P3×3×3",
+      "seconds": 150,
+      "n": 27,
+      "m": 54,
+      "instance": "3dmeshes/3dmesh_3.txt"
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P3×3×135",
+      "seconds": 150,
+      "n": 1215,
+      "m": 2826,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P3×3×270",
+      "seconds": 150,
+      "n": 2430,
+      "m": 5661,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P3×3×400",
+      "seconds": 150,
+      "n": 3600,
+      "m": 8391,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P4×4×5",
+      "seconds": 150,
+      "n": 80,
+      "m": 184,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P4×4×68",
+      "seconds": 150,
+      "n": 1088,
+      "m": 2704,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P4×4×137",
+      "seconds": 150,
+      "n": 2192,
+      "m": 5464,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P4×4×200",
+      "seconds": 150,
+      "n": 3200,
+      "m": 7984,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P5×5×7",
+      "seconds": 150,
+      "n": 175,
+      "m": 430,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P5×5×35",
+      "seconds": 150,
+      "n": 875,
+      "m": 2250,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P5×5×70",
+      "seconds": 150,
+      "n": 1750,
+      "m": 4525,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P5×5×100",
+      "seconds": 150,
+      "n": 2500,
+      "m": 6475,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P6×6×8",
+      "seconds": 150,
+      "n": 288,
+      "m": 732,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P6×6×36",
+      "seconds": 150,
+      "n": 1296,
+      "m": 3420,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P6×6×72",
+      "seconds": 150,
+      "n": 2592,
+      "m": 6876,
+      "instance": null
+    },
+    {
+      "table": "B3",
+      "paper_instance": "P6×6×100",
+      "seconds": 150,
+      "n": 3600,
+      "m": 9564,
+      "instance": null
+    },
+    {
+      "table": "B4",
+      "paper_instance": "Q4",
+      "seconds": 150,
+      "n": 16,
+      "m": 32,
+      "instance": "hypercubes/hypercube_4_16.txt"
+    },
+    {
+      "table": "B4",
+      "paper_instance": "Q5",
+      "seconds": 150,
+      "n": 32,
+      "m": 80,
+      "instance": "hypercubes/hypercube_5_32.txt"
+    },
+    {
+      "table": "B4",
+      "paper_instance": "Q6",
+      "seconds": 150,
+      "n": 64,
+      "m": 192,
+      "instance": "hypercubes/hypercube_6_64.txt"
+    },
+    {
+      "table": "B4",
+      "paper_instance": "Q7",
+      "seconds": 150,
+      "n": 128,
+      "m": 448,
+      "instance": "hypercubes/hypercube_7_128.txt"
+    },
+    {
+      "table": "B4",
+      "paper_instance": "Q8",
+      "seconds": 150,
+      "n": 256,
+      "m": 1024,
+      "instance": "hypercubes/hypercube_8_256.txt"
+    },
+    {
+      "table": "B4",
+      "paper_instance": "Q9",
+      "seconds": 150,
+      "n": 512,
+      "m": 2304,
+      "instance": "hypercubes/hypercube_9_512.txt"
+    },
+    {
+      "table": "B4",
+      "paper_instance": "Q10",
+      "seconds": 150,
+      "n": 1024,
+      "m": 5120,
+      "instance": "hypercubes/hypercube_10_1024.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s15,5",
+      "seconds": 150,
+      "n": 20,
+      "m": 19,
+      "instance": "double_stars/double_star_15_5.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s15,7",
+      "seconds": 150,
+      "n": 22,
+      "m": 21,
+      "instance": "double_stars/double_star_15_7.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s15,10",
+      "seconds": 150,
+      "n": 25,
+      "m": 24,
+      "instance": "double_stars/double_star_15_10.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s15,12",
+      "seconds": 150,
+      "n": 27,
+      "m": 26,
+      "instance": "double_stars/double_star_15_12.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s30,20",
+      "seconds": 150,
+      "n": 50,
+      "m": 49,
+      "instance": "double_stars/double_star_30_20.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s30,25",
+      "seconds": 150,
+      "n": 55,
+      "m": 54,
+      "instance": "double_stars/double_star_30_25.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s35,20",
+      "seconds": 150,
+      "n": 55,
+      "m": 54,
+      "instance": "double_stars/double_star_35_20.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s35,25",
+      "seconds": 150,
+      "n": 60,
+      "m": 59,
+      "instance": "double_stars/double_star_35_25.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s40,20",
+      "seconds": 150,
+      "n": 60,
+      "m": 59,
+      "instance": "double_stars/double_star_40_20.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s40,25",
+      "seconds": 150,
+      "n": 65,
+      "m": 64,
+      "instance": "double_stars/double_star_40_25.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s40,30",
+      "seconds": 150,
+      "n": 70,
+      "m": 69,
+      "instance": "double_stars/double_star_40_30.txt"
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s50,20",
+      "seconds": 150,
+      "n": 70,
+      "m": 69,
+      "instance": null
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s50,25",
+      "seconds": 150,
+      "n": 75,
+      "m": 74,
+      "instance": null
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s50,30",
+      "seconds": 150,
+      "n": 80,
+      "m": 79,
+      "instance": null
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s100,20",
+      "seconds": 150,
+      "n": 120,
+      "m": 119,
+      "instance": null
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s100,25",
+      "seconds": 150,
+      "n": 125,
+      "m": 124,
+      "instance": null
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s100,30",
+      "seconds": 150,
+      "n": 130,
+      "m": 129,
+      "instance": null
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s150,20",
+      "seconds": 150,
+      "n": 170,
+      "m": 169,
+      "instance": null
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s150,25",
+      "seconds": 150,
+      "n": 175,
+      "m": 174,
+      "instance": null
+    },
+    {
+      "table": "B5",
+      "paper_instance": "s150,30",
+      "seconds": 150,
+      "n": 180,
+      "m": 179,
+      "instance": null
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT30",
+      "seconds": 150,
+      "n": 30,
+      "m": 29,
+      "instance": "complete_binary_trees/cbt_30.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT31",
+      "seconds": 150,
+      "n": 31,
+      "m": 30,
+      "instance": "complete_binary_trees/cbt_31.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT32",
+      "seconds": 150,
+      "n": 32,
+      "m": 31,
+      "instance": "complete_binary_trees/cbt_32.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT33",
+      "seconds": 150,
+      "n": 33,
+      "m": 32,
+      "instance": "complete_binary_trees/cbt_33.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT34",
+      "seconds": 150,
+      "n": 34,
+      "m": 33,
+      "instance": "complete_binary_trees/cbt_34.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT35",
+      "seconds": 150,
+      "n": 35,
+      "m": 34,
+      "instance": "complete_binary_trees/cbt_35.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT45",
+      "seconds": 150,
+      "n": 45,
+      "m": 44,
+      "instance": "complete_binary_trees/cbt_45.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT46",
+      "seconds": 150,
+      "n": 46,
+      "m": 45,
+      "instance": "complete_binary_trees/cbt_46.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT47",
+      "seconds": 150,
+      "n": 47,
+      "m": 46,
+      "instance": "complete_binary_trees/cbt_47.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT48",
+      "seconds": 150,
+      "n": 48,
+      "m": 47,
+      "instance": "complete_binary_trees/cbt_48.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT49",
+      "seconds": 150,
+      "n": 49,
+      "m": 48,
+      "instance": "complete_binary_trees/cbt_49.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT50",
+      "seconds": 150,
+      "n": 50,
+      "m": 49,
+      "instance": "complete_binary_trees/cbt_50.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT500",
+      "seconds": 150,
+      "n": 500,
+      "m": 499,
+      "instance": "complete_binary_trees/cbt_500.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT510",
+      "seconds": 150,
+      "n": 510,
+      "m": 509,
+      "instance": "complete_binary_trees/cbt_510.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT550",
+      "seconds": 150,
+      "n": 550,
+      "m": 549,
+      "instance": "complete_binary_trees/cbt_550.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT600",
+      "seconds": 150,
+      "n": 600,
+      "m": 599,
+      "instance": "complete_binary_trees/cbt_600.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT620",
+      "seconds": 150,
+      "n": 620,
+      "m": 619,
+      "instance": "complete_binary_trees/cbt_620.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT630",
+      "seconds": 150,
+      "n": 630,
+      "m": 629,
+      "instance": "complete_binary_trees/cbt_630.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT640",
+      "seconds": 150,
+      "n": 640,
+      "m": 639,
+      "instance": "complete_binary_trees/cbt_640.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT730",
+      "seconds": 150,
+      "n": 730,
+      "m": 729,
+      "instance": "complete_binary_trees/cbt_730.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT790",
+      "seconds": 150,
+      "n": 790,
+      "m": 789,
+      "instance": "complete_binary_trees/cbt_790.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT880",
+      "seconds": 150,
+      "n": 880,
+      "m": 879,
+      "instance": "complete_binary_trees/cbt_880.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT910",
+      "seconds": 150,
+      "n": 910,
+      "m": 909,
+      "instance": "complete_binary_trees/cbt_910.txt"
+    },
+    {
+      "table": "B6",
+      "paper_instance": "CBT950",
+      "seconds": 150,
+      "n": 950,
+      "m": 949,
+      "instance": "complete_binary_trees/cbt_950.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P5,4",
+      "seconds": 150,
+      "n": 20,
+      "m": 19,
+      "instance": "caterpillars/caterpillar_5_4.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P5,5",
+      "seconds": 150,
+      "n": 25,
+      "m": 24,
+      "instance": "caterpillars/caterpillar_5_5.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P5,6",
+      "seconds": 150,
+      "n": 30,
+      "m": 29,
+      "instance": "caterpillars/caterpillar_5_6.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P5,7",
+      "seconds": 150,
+      "n": 35,
+      "m": 34,
+      "instance": "caterpillars/caterpillar_5_7.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P9,4",
+      "seconds": 150,
+      "n": 36,
+      "m": 35,
+      "instance": "caterpillars/caterpillar_9_4.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P9,5",
+      "seconds": 150,
+      "n": 45,
+      "m": 44,
+      "instance": "caterpillars/caterpillar_9_5.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P9,6",
+      "seconds": 150,
+      "n": 54,
+      "m": 53,
+      "instance": "caterpillars/caterpillar_9_6.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P9,7",
+      "seconds": 150,
+      "n": 63,
+      "m": 62,
+      "instance": "caterpillars/caterpillar_9_7.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P10,4",
+      "seconds": 150,
+      "n": 40,
+      "m": 39,
+      "instance": "caterpillars/caterpillar_10_4.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P10,5",
+      "seconds": 150,
+      "n": 50,
+      "m": 49,
+      "instance": "caterpillars/caterpillar_10_5.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P10,6",
+      "seconds": 150,
+      "n": 60,
+      "m": 59,
+      "instance": "caterpillars/caterpillar_10_6.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P10,7",
+      "seconds": 150,
+      "n": 70,
+      "m": 69,
+      "instance": "caterpillars/caterpillar_10_7.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P15,4",
+      "seconds": 150,
+      "n": 60,
+      "m": 59,
+      "instance": "caterpillars/caterpillar_15_4.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P15,5",
+      "seconds": 150,
+      "n": 75,
+      "m": 74,
+      "instance": "caterpillars/caterpillar_15_5.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P15,6",
+      "seconds": 150,
+      "n": 90,
+      "m": 89,
+      "instance": "caterpillars/caterpillar_15_6.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P15,7",
+      "seconds": 150,
+      "n": 105,
+      "m": 104,
+      "instance": "caterpillars/caterpillar_15_7.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P20,4",
+      "seconds": 150,
+      "n": 80,
+      "m": 79,
+      "instance": "caterpillars/caterpillar_20_4.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P20,5",
+      "seconds": 150,
+      "n": 100,
+      "m": 99,
+      "instance": "caterpillars/caterpillar_20_5.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P20,6",
+      "seconds": 150,
+      "n": 120,
+      "m": 119,
+      "instance": "caterpillars/caterpillar_20_6.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P20,7",
+      "seconds": 150,
+      "n": 140,
+      "m": 139,
+      "instance": "caterpillars/caterpillar_20_7.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P20,10",
+      "seconds": 150,
+      "n": 200,
+      "m": 199,
+      "instance": "caterpillars/caterpillar_20_10.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P20,15",
+      "seconds": 150,
+      "n": 300,
+      "m": 299,
+      "instance": "caterpillars/caterpillar_20_15.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P20,20",
+      "seconds": 150,
+      "n": 400,
+      "m": 399,
+      "instance": "caterpillars/caterpillar_20_20.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P20,25",
+      "seconds": 150,
+      "n": 500,
+      "m": 499,
+      "instance": "caterpillars/caterpillar_20_25.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P25,10",
+      "seconds": 150,
+      "n": 250,
+      "m": 249,
+      "instance": "caterpillars/caterpillar_25_10.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P25,15",
+      "seconds": 150,
+      "n": 375,
+      "m": 374,
+      "instance": "caterpillars/caterpillar_25_15.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P25,20",
+      "seconds": 150,
+      "n": 500,
+      "m": 499,
+      "instance": "caterpillars/caterpillar_25_20.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P25,25",
+      "seconds": 150,
+      "n": 625,
+      "m": 624,
+      "instance": "caterpillars/caterpillar_25_25.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P30,10",
+      "seconds": 150,
+      "n": 300,
+      "m": 299,
+      "instance": "caterpillars/caterpillar_30_10.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P30,15",
+      "seconds": 150,
+      "n": 450,
+      "m": 449,
+      "instance": "caterpillars/caterpillar_30_15.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P30,20",
+      "seconds": 150,
+      "n": 600,
+      "m": 599,
+      "instance": "caterpillars/caterpillar_30_20.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P30,25",
+      "seconds": 150,
+      "n": 750,
+      "m": 749,
+      "instance": "caterpillars/caterpillar_30_25.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P35,10",
+      "seconds": 150,
+      "n": 350,
+      "m": 349,
+      "instance": "caterpillars/caterpillar_35_10.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P35,15",
+      "seconds": 150,
+      "n": 525,
+      "m": 524,
+      "instance": "caterpillars/caterpillar_35_15.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P35,20",
+      "seconds": 150,
+      "n": 700,
+      "m": 699,
+      "instance": "caterpillars/caterpillar_35_20.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P35,25",
+      "seconds": 150,
+      "n": 875,
+      "m": 874,
+      "instance": "caterpillars/caterpillar_35_25.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P40,10",
+      "seconds": 150,
+      "n": 400,
+      "m": 399,
+      "instance": "caterpillars/caterpillar_40_10.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P40,15",
+      "seconds": 150,
+      "n": 600,
+      "m": 599,
+      "instance": "caterpillars/caterpillar_40_15.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P40,20",
+      "seconds": 150,
+      "n": 800,
+      "m": 799,
+      "instance": "caterpillars/caterpillar_40_20.txt"
+    },
+    {
+      "table": "B7",
+      "paper_instance": "P40,25",
+      "seconds": 150,
+      "n": 1000,
+      "m": 999,
+      "instance": "caterpillars/caterpillar_40_25.txt"
+    },
+    {
+      "table": "6",
+      "paper_instance": "K-dwt 234",
+      "seconds": 1800,
+      "n": 117,
+      "m": 162,
+      "instance": "hb/dwt__234.mtx.rnd"
+    },
+    {
+      "table": "6",
+      "paper_instance": "M-bcsstk07",
+      "seconds": 1800,
+      "n": 420,
+      "m": 3720,
+      "instance": "hb/bcsstk07.mtx.rnd"
+    },
+    {
+      "table": "6",
+      "paper_instance": "N-bcsstk06",
+      "seconds": 1800,
+      "n": 420,
+      "m": 3720,
+      "instance": "hb/bcsstk06.mtx.rnd"
+    },
+    {
+      "table": "6",
+      "paper_instance": "O-impcol d",
+      "seconds": 1800,
+      "n": 425,
+      "m": 1267,
+      "instance": "hb/impcol_d.mtx.rnd"
+    },
+    {
+      "table": "6",
+      "paper_instance": "P-can 445",
+      "seconds": 1800,
+      "n": 445,
+      "m": 1682,
+      "instance": "hb/can__445.mtx.rnd"
+    },
+    {
+      "table": "6",
+      "paper_instance": "R-dwt 503",
+      "seconds": 1800,
+      "n": 503,
+      "m": 2762,
+      "instance": "hb/dwt__503.mtx.rnd"
+    },
+    {
+      "table": "6",
+      "paper_instance": "S-sherman4",
+      "seconds": 1800,
+      "n": 546,
+      "m": 1341,
+      "instance": "hb/sherman4.mtx.rnd"
+    },
+    {
+      "table": "6",
+      "paper_instance": "T-dwt 592",
+      "seconds": 1800,
+      "n": 592,
+      "m": 2256,
+      "instance": "hb/dwt__592.mtx.rnd"
+    },
+    {
+      "table": "6",
+      "paper_instance": "V-nos6",
+      "seconds": 1800,
+      "n": 675,
+      "m": 1290,
+      "instance": "hb/nos6.mtx.rnd"
+    },
+    {
+      "table": "6",
+      "paper_instance": "X-can 715",
+      "seconds": 1800,
+      "n": 715,
+      "m": 2975,
+      "instance": "hb/can__715.mtx.rnd"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+paper_runs/
+*.log
+.gurobi/
+*.lic
